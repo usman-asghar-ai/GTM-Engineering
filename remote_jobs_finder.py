@@ -1,22 +1,4 @@
-"""
-remote_jobs_finder.py
 
-Kai remote job boards se ek saath jobs nikaalta hai — active jobs +
-seedhe APPLY LINKS — aur sab ek CSV mein daal deta hai.
-
-Ye teen FREE, LEGAL APIs use karta hai (koi key nahi chahiye):
-    - Remotive     (remote tech jobs, worldwide)
-    - Arbeitnow    (Europe + Germany focus, remote)
-    - RemoteOK     (worldwide remote)
-
-Chalao:
-    python remote_jobs_finder.py
-    python remote_jobs_finder.py --keyword "python"
-    python remote_jobs_finder.py --keyword "data" --limit 100
-
-NOTE: ye boards khud data dena chahte hain — isliye legal. Google/LinkedIn
-ko seedha scrape karna ILLEGAL/ban-able hai. Hamesha khule darwaze (API) se lo.
-"""
 
 import argparse
 import csv
@@ -27,11 +9,6 @@ import requests
 
 HEADERS = {"User-Agent": "job-finder-learning-script"}
 
-
-# -----------------------------------------------------------------------------
-# Har board ka apna function. Har ek alag JSON deta hai, hum sabko ek jaisi
-# saaf row mein badalte hain: {title, company, location, tags, apply_link, source}
-# -----------------------------------------------------------------------------
 def from_remotive(keyword):
     jobs = []
     try:
@@ -129,9 +106,7 @@ def main():
         all_jobs.extend(found)
         time.sleep(0.5)   # har board ke beech ruko (tameez)
 
-    # -------------------------------------------------------------------------
-    # DEDUP — ek hi job kai boards par ho sakti hai. Title+company se hataao.
-    # -------------------------------------------------------------------------
+
     seen = set()
     unique = []
     for job in all_jobs:
