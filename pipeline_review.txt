@@ -1,0 +1,51 @@
+REVIEW — bhejne se pehle har email parho.
+=======================================================
+
+TO: Guido van Rossum (Microsoft)  —  score 10/10
+SUBJECT: quick idea for Microsoft
+
+Hi Guido,
+
+I saw you're a developer at Microsoft. Hum developers ke liye ek tool banate hain jo code review tez karta hai. Open to a quick look?
+
+Best,
+Usman
+
+-------------------------------------------------------
+
+TO: Ali Khan (TechCorp)  —  score 10/10
+SUBJECT: quick idea for TechCorp
+
+Hi Ali,
+
+I saw you're a developer at TechCorp. Hum developers ke liye ek tool banate hain jo code review tez karta hai. Open to a quick look?
+
+Best,
+Usman
+
+-------------------------------------------------------
+
+TO: Sara Ahmed (DataSoft)  —  score 8/10
+SUBJECT: quick idea for DataSoft
+
+Hi Sara,
+
+I saw you're a developer at DataSoft. Hum developers ke liye ek tool banate hain jo code review tez karta hai. Open to a quick look?
+
+Best,
+Usman
+
+-------------------------------------------------------
+
+TO: Ahmed Raza (CloudNine)  —  score 10/10
+SUBJECT: quick idea for CloudNine
+
+Hi Ahmed,
+
+I saw you're a developer at CloudNine. Hum developers ke liye ek tool banate hain jo code review tez karta hai. Open to a quick look?
+
+Best,
+Usman
+
+-------------------------------------------------------
+

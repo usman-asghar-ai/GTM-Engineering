@@ -1,0 +1,55 @@
+username,name,company,location,followers,public_repos,profile_url,score,reason,subject,body
+gvanrossum,Guido van Rossum,Microsoft,San Francisco Bay Area,26492,28,https://github.com/gvanrossum,10,"company mein hai, 28 repos (active), achhi reach",quick idea for Microsoft,"Hi Guido,
+
+I saw you're a developer at Microsoft. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman"
+antirez,Salvatore Sanfilippo,Redis Labs,"Catania, Sicily, Italy",30006,108,https://github.com/antirez,10,"company mein hai, 108 repos (active), achhi reach",quick idea for Redis Labs,"Hi Salvatore,
+
+I saw you're a developer at Redis Labs. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman"
+tj,TJ,Apex,,51835,296,https://github.com/tj,10,"company mein hai, 296 repos (active), achhi reach",quick idea for Apex,"Hi TJ,
+
+I saw you're a developer at Apex. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman"
+kentcdodds,Kent C. Dodds,@epicweb-dev ,"Salt Lake City, Utah, USA",34903,751,https://github.com/kentcdodds,10,"company mein hai, 751 repos (active), achhi reach",quick idea for @epicweb-dev ,"Hi Kent,
+
+I saw you're a developer at @epicweb-dev . Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman"
+wesbos,Wes Bos,me,"Hamilton, Ontario",35645,434,https://github.com/wesbos,10,"company mein hai, 434 repos (active), achhi reach",quick idea for me,"Hi Wes,
+
+I saw you're a developer at me. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman"
+addyosmani,Addy Osmani,Google,"Sunnyvale, California",51524,359,https://github.com/addyosmani,10,"company mein hai, 359 repos (active), achhi reach",quick idea for Google,"Hi Addy,
+
+I saw you're a developer at Google. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman"
+sindresorhus,Sindre Sorhus,,,80228,1140,https://github.com/sindresorhus,7,"koi company nahi, 1140 repos (active), achhi reach",quick idea for your team,"Hi Sindre,
+
+I saw you're a developer at your team. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman"
+yyx990803,Evan You,VoidZero,Singapore,108483,198,https://github.com/yyx990803,7,"company mein hai, 198 repos (active), bohot bara, pohonch mushkil",quick idea for VoidZero,"Hi Evan,
+
+I saw you're a developer at VoidZero. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman"
+gaearon,dan,,,90978,299,https://github.com/gaearon,7,"koi company nahi, 299 repos (active), achhi reach",quick idea for your team,"Hi dan,
+
+I saw you're a developer at your team. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman"

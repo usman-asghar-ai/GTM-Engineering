@@ -1,0 +1,112 @@
+REVIEW — bhejne se PEHLE har email parho.
+Jo jhooti, robot jaisi, ya ghalat lage — hata do.
+============================================================
+
+TO:      Guido van Rossum
+SUBJECT: quick idea for Microsoft
+
+Hi Guido,
+
+I saw you're a developer at Microsoft. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman
+
+------------------------------------------------------------
+
+TO:      Salvatore Sanfilippo
+SUBJECT: quick idea for Redis Labs
+
+Hi Salvatore,
+
+I saw you're a developer at Redis Labs. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman
+
+------------------------------------------------------------
+
+TO:      TJ
+SUBJECT: quick idea for Apex
+
+Hi TJ,
+
+I saw you're a developer at Apex. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman
+
+------------------------------------------------------------
+
+TO:      Kent C. Dodds
+SUBJECT: quick idea for @epicweb-dev 
+
+Hi Kent,
+
+I saw you're a developer at @epicweb-dev . Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman
+
+------------------------------------------------------------
+
+TO:      Wes Bos
+SUBJECT: quick idea for me
+
+Hi Wes,
+
+I saw you're a developer at me. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman
+
+------------------------------------------------------------
+
+TO:      Addy Osmani
+SUBJECT: quick idea for Google
+
+Hi Addy,
+
+I saw you're a developer at Google. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman
+
+------------------------------------------------------------
+
+TO:      Sindre Sorhus
+SUBJECT: quick idea for your team
+
+Hi Sindre,
+
+I saw you're a developer at your team. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman
+
+------------------------------------------------------------
+
+TO:      Evan You
+SUBJECT: quick idea for VoidZero
+
+Hi Evan,
+
+I saw you're a developer at VoidZero. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman
+
+------------------------------------------------------------
+
+TO:      dan
+SUBJECT: quick idea for your team
+
+Hi dan,
+
+I saw you're a developer at your team. Hum developers ke liye ek tool banate hain jo unka code review tez karta hai. Would you be open to a quick look?
+
+Best,
+Usman
+
+------------------------------------------------------------
+
